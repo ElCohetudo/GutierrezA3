@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnGo1">Ir</string>
+    <string name="textViewChoose">Por favor escoje una pagina web</string>
+    <string name="btnGo2">Ir</string>
+    <string name="textViewMesa">Universidad Mesa</string>
+</resources>

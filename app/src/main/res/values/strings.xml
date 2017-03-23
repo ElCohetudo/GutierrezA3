@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">GutierrezA3</string>
+    <string name="textViewChoose">Please Choose a Website</string>
+    <string name="textViewMesa">Mesa College</string>
+    <string name="textViewGoogle" translatable="false">Google</string>
+    <string name="btnGo1">Go</string>
+    <string name="btnGo2">Go</string>
+</resources>
